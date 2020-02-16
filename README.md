@@ -9,3 +9,4 @@
 | 4 | [Coons Patch](Coons%20Patch)     | A smooth surface initialized by 4 points | ![Coons Patch](Coons%20Patch/teaser.png)   |
 | 5 | [8Point/RANSAC](RANSAC)     | Estimate the fundamental matrix based on 8 point or RANSAC algorithms  | ![RANSAC](RANSAC/teaser.png)   |
 | 6 | [Image Filtering/Hough Transform](Hough%20Transform)     | Generate edge and detect line segments from an image  | ![Hough%20Transform](Hough%20Transform/teaser.jpg)   |
+| 7 | [Augmented Reality with Planar Homographies](Augmented%20Reality)     |Implement an AR application step by step using planar homographies | ![Augmented%20Reality](Augmented%20Reality/teaser.png)   |
