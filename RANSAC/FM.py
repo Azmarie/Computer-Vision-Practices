@@ -42,6 +42,8 @@ def FM_normalize_points(x):
 
 def FM_by_normalized_8_point(pts1,  pts2):
 
+    import pdb; pdb.set_trace()
+
 	# 1. Normalize point coordinates (use a normalization matrix)
     [X1, T1] = FM_normalize_points(pts1)
     [X2, T2] = FM_normalize_points(pts2)

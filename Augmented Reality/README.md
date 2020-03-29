@@ -96,4 +96,4 @@ AR source video was center cropped to a similar ratio with the book cover image.
 
 | AR video sample frame|
 |-----------------------------------------|
-| <img src="results/teaser.png" width="600">|
+| <img src="teaser.png" width="600">|
